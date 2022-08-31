@@ -1,0 +1,14 @@
+{
+    "name": "openmage/bc-mysql4-classes",
+    "description": "Mysql4-classes for backward compatibility.",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Sven Reichel",
+            "homepage":"https://github.com/sreichel"
+        }
+    ]
+}
