@@ -1,6 +1,7 @@
 {
     "name": "openmage/bc-mysql4-classes",
     "description": "Mysql4-classes for backward compatibility.",
+    "license": "OSL-3.0",
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
